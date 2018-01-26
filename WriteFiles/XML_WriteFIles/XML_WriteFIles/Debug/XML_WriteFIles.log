@@ -1,0 +1,26 @@
+﻿生成启动时间为 2018/1/26 15:01:58。
+     1>项目“G:\XMLExamples\WriteFiles\XML_WriteFIles\XML_WriteFIles\XML_WriteFIles.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\ProgrammeFiles\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt src\main.cpp
+         main.cpp
+     1>g:\xmlexamples\writefiles\xml_writefiles\xml_writefiles\tinyxml\aftinyxml.h(52): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\programmefiles\vs2013\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\xmlexamples\writefiles\xml_writefiles\xml_writefiles\src\main.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\xmlexamples\writefiles\xml_writefiles\xml_writefiles\src\main.cpp(58): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\programmefiles\vs2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>g:\xmlexamples\writefiles\xml_writefiles\xml_writefiles\src\main.cpp(59): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\programmefiles\vs2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>g:\xmlexamples\writefiles\xml_writefiles\xml_writefiles\src\main.cpp(60): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\programmefiles\vs2013\vc\include\string.h(112) : 参见“strcpy”的声明
+       Link:
+         C:\ProgrammeFiles\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\XMLExamples\WriteFiles\XML_WriteFIles\Debug\XML_WriteFIles.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\XMLExamples\WriteFiles\XML_WriteFIles\Debug\XML_WriteFIles.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\XMLExamples\WriteFiles\XML_WriteFIles\Debug\XML_WriteFIles.lib" /MACHINE:X86 Debug\main.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         XML_WriteFIles.vcxproj -> G:\XMLExamples\WriteFiles\XML_WriteFIles\Debug\XML_WriteFIles.exe
+     1>已完成生成项目“G:\XMLExamples\WriteFiles\XML_WriteFIles\XML_WriteFIles\XML_WriteFIles.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.16

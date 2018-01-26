@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="GBK" ?>
+<root>
+    <NoteList>
+        <Note>
+            <id>1</id>
+            <when>2018-1-26 1:00</when>
+            <who>Qi</who>
+            <what>睡觉</what>
+        </Note>
+        <Note>
+            <id>2</id>
+            <when>2019-1-21 2:00</when>
+            <who>Ge</who>
+            <what>打豆豆</what>
+        </Note>
+        <Note>
+            <id>3</id>
+            <when>2020-2-20 5:00</when>
+            <who>Yong</who>
+            <what>看书</what>
+        </Note>
+    </NoteList>
+</root>

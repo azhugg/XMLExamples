@@ -1,0 +1,30 @@
+﻿生成启动时间为 2018/1/26 14:31:15。
+     1>项目“G:\XMLExamples\ReadFiles\XML_ReadFiles\XML_ReadFiles\XML_ReadFiles.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\ProgrammeFiles\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt src\main.cpp tinyxml\tinystr.cpp tinyxml\tinyxml.cpp tinyxml\tinyxmlerror.cpp tinyxml\tinyxmlparser.cpp
+         tinyxmlparser.cpp
+         tinyxmlerror.cpp
+         tinyxml.cpp
+         tinystr.cpp
+         main.cpp
+     1>g:\xmlexamples\readfiles\xml_readfiles\xml_readfiles\tinyxml\aftinyxml.h(52): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\programmefiles\vs2013\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>g:\xmlexamples\readfiles\xml_readfiles\xml_readfiles\src\main.cpp(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\programmefiles\vs2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>g:\xmlexamples\readfiles\xml_readfiles\xml_readfiles\src\main.cpp(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\programmefiles\vs2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>g:\xmlexamples\readfiles\xml_readfiles\xml_readfiles\src\main.cpp(55): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\programmefiles\vs2013\vc\include\string.h(112) : 参见“strcpy”的声明
+         正在生成代码...
+       Link:
+         C:\ProgrammeFiles\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\XMLExamples\ReadFiles\XML_ReadFiles\Debug\XML_ReadFiles.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\XMLExamples\ReadFiles\XML_ReadFiles\Debug\XML_ReadFiles.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\XMLExamples\ReadFiles\XML_ReadFiles\Debug\XML_ReadFiles.lib" /MACHINE:X86 Debug\main.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         XML_ReadFiles.vcxproj -> G:\XMLExamples\ReadFiles\XML_ReadFiles\Debug\XML_ReadFiles.exe
+     1>已完成生成项目“G:\XMLExamples\ReadFiles\XML_ReadFiles\XML_ReadFiles\XML_ReadFiles.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.01
